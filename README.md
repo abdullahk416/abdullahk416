@@ -36,9 +36,11 @@ I'm a **second-year Software Engineering student** at Ontario Tech University wi
 ![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vpak&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/abdullah-khan/)
-- [GitHub](https://github.com/vpak)
-- [Twitter](https://twitter.com/yourtwitter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-khan/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vpak)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/yourdevto)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=internet-explorer&logoColor=white)](https://yourwebsite.com)
 
 ## 💬 Fun Facts
 - When I'm not coding, I enjoy exploring new tech innovations, gaming, and occasionally working on a personal blog.
