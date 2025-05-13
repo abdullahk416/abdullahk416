@@ -1,6 +1,6 @@
 # Hi, I'm Abdullah 👋
 
-I'm a **Computer Science student** at Ontario Tech University with a passion for **full-stack development**, **AI-driven solutions**, and **building scalable systems**. I thrive on solving complex problems and crafting user-centric applications.
+I'm a **computer Science student** at Ontario Tech University with a passion for **full-stack development**, **AI-driven solutions**, and **building scalable systems**. I thrive on solving complex problems and crafting user-centric applications.
 
 ## 🚀 What I Do
 - **Software Engineering**: Developing web and mobile applications with a focus on performance, scalability, and user experience.
