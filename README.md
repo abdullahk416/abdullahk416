@@ -1,4 +1,4 @@
-# Hi, I'm Abdullah Khan 👋
+# Hi, I'm Abdullah 👋
 
 I'm a **second-year Software Engineering student** at Ontario Tech University with a passion for **full-stack development**, **AI-driven solutions**, and **building scalable systems**. I thrive on solving complex problems and crafting user-centric applications.
 
