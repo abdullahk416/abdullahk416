@@ -32,13 +32,10 @@ I'm a **second-year Software Engineering student** at Ontario Tech University wi
 - **Cloud Services**: Deep diving into AWS and serverless architectures.
 - **AI Models**: Experimenting with more advanced machine learning and NLP techniques.
 
-## 📈 GitHub Stats
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vpak&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdvllah-khan/)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=internet-explorer&logoColor=white)](https://abdullahkhann.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullah.khan14@ontariotechu.net)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=internet-explorer&logoColor=white)](https://abdullahkhann.netlify.app/)
 
 ## 💬 Fun Facts
 - When I'm not coding, I enjoy exploring new tech innovations, gaming, and occasionally working on a personal blog.
