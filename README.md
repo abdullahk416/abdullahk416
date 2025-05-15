@@ -4,7 +4,7 @@ I'm a **computer Science student** at Ontario Tech University with a passion for
 
 ## 🚀 What I Do
 - **Software Engineering**: Developing web and mobile applications with a focus on performance, scalability, and user experience.
-- **AI & Machine Learning**: Building innovative solutions leveraging **AI** to solve real-world problems, especially in the fields of **mental health** and **automation**.
+- **AI & Machine Learning**: Building innovative solutions leveraging **AI** to solve real-world problems.
 - **Web Development**: Building responsive and interactive web applications using modern front-end and back-end frameworks.
 - **Open Source Contributor**: Actively contributing to open-source projects and building tools that benefit the developer community.
 - **Tech Enthusiast**: Constantly learning new technologies and keeping up with industry trends.
