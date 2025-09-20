@@ -35,7 +35,7 @@ I'm a **computer Science student** at Ontario Tech University with a passion for
 [![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=internet-explorer&logoColor=white)](https://abdullahkhann.netlify.app/)
 
 ## 💬 Fun Facts
-- When I'm not coding, I enjoy exploring new tech innovations, gaming, and occasionally working on a personal blog.
+- When I'm not coding, I enjoy exploring new tech innovations, gaming, and building personal projects.
 - I’m also actively preparing for software engineering internships, and I’m open to collaborating on projects!
 
 ---
